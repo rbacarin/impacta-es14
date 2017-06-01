@@ -1,5 +1,6 @@
 # Filmes preferidos da turma ES-14
 
-|: Nome                    |: Filme                    |
-| Tomaz                    | Matrix                    |
-
+<table>
+<tr><th>Nome</th><th>Filme</th></tr>
+<tr><td>Tomaz</td><td>Matrix</td></tr>
+</table>
